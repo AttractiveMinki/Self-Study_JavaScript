@@ -48,3 +48,19 @@ JavaScript에 대한 전반적인 이해
 
 1 - 자바스크립트 배우기전 꼭 봐야할 영상 | 자바스크립트의 역사와 현재 그리고 미래 (JavaScript, ECMAScript, JQuery, Babel, Node.js)
 
+2 - 자바스크립트 2. 콘솔에 출력, script async 와 defer의 차이점 및 앞으로 자바스크립트 공부 방향 - 프론트엔드 개발자 입문편 (JavaScript ES5+)
+
+3 - 자바스크립트 3. 데이터타입, data types, let vs var, hoisting - 프론트엔드 개발자 입문편 (JavaScript ES5+)
+
+4 - 자바스크립트 4. 코딩의 기본 operator, if, for loop 코드리뷰 팁 - 프론트엔드 개발자 입문편 (JavaScript ES6)
+
+5 자바스크립트 5. Arrow Function은 무엇인가 함수의 선언과 표현 - 프론트엔드 개발자 입문편(JavaScript ES6)
+
+6 자바스크립트 6. 클래스와 오브젝트의 차이점(class vs object), 객체지향 언어 클래스 정리 - 프론트엔드 개발자 입문편 (JavaScript ES6)
+
+7 자바스크립트 7. 오브젝트 넌 뭐니 - 프론트엔드 개발자 입문편 (JavaScript ES6)
+
+8 자바스크립트 8. 배열 제대로 알고 쓰자. 자바스크립트 배열 개념과 APIs 총정리 - 프론트엔드 개발자 입문편 (JavaScript ES6 )
+
+
+

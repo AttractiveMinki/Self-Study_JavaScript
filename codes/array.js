@@ -65,8 +65,10 @@ console.log(fruits);
 // fruits.splice(1);
 fruits.splice(1, 1);
 console.log(fruits);
-fruits.splice(1, 1, 'apple', 'watermelon');
+// fruits.splice(1, 1, 'apple', 'watermelon');
+fruits.splice(1, 0, 'apple', 'watermelon'); 
 console.log(fruits);
+
 
 // combine two arrays
 const fruits2 = ['green', 'kakao'];
