@@ -62,5 +62,9 @@ JavaScript에 대한 전반적인 이해
 
 8 자바스크립트 8. 배열 제대로 알고 쓰자. 자바스크립트 배열 개념과 APIs 총정리 - 프론트엔드 개발자 입문편 (JavaScript ES6 )
 
+9 자바스크립트 9. 유용한 10가지 배열 함수들. Array APIs 총정리 - 프론트엔드 개발자 입문편 ( JavaScript ES6)
+
+10 자바스크립트 10. JSON 개념 정리 와 활용방법 및 유용한 사이트 공유 JavaScript JSON - 프론트엔드 개발자 입문편 (JavaScript ES6)
+
 
 
