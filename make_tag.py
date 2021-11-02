@@ -19,3 +19,4 @@ while True:
 
 for word in words:
     print('[%s](#%s)' % (word, word))
+    print()
