@@ -71,3 +71,6 @@ JavaScript에 대한 전반적인 이해
 12 자바스크립트 12. 프로미스 개념부터 활용까지 JavaScript Promise - 프론트엔드 개발자 입문편 (JavaScript ES6)
 
 13 자바스크립트 13. 비동기의 꽃 JavaScript async 와 await 그리고 유용한 Promise APIs - 프론트엔드 개발자 입문편 (JavaScript ES6)
+
+14 프로그래밍 포기 하지 마세요 (자바스크립트 함수 기본편)
+
